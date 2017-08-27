@@ -1,0 +1,7 @@
+{
+  "name": "monomer",
+  "short_name": "monomer",
+  "description": "Polymer test",
+  "start_url": "/",
+  "display": "standalone"
+}
